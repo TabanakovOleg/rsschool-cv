@@ -77,4 +77,4 @@ I don't have any cool application experience in frontend development. So far, I 
 
 ## English
 
-My level of English is a confident pre-intermediate. I think I'm somewhere between A2 and B1
+My level of English is a confident pre-intermediate. I think I'm somewhere between A2 and B1.
