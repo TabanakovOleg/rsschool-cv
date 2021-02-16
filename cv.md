@@ -23,7 +23,6 @@ Now I am looking for a job in a good company or studio, where I can further deve
 * UI/UX design
 * Web-design
 * Mobile App Design
-* Cinema 4D
 
 #### Progrmming:
 * Kotlin
